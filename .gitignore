@@ -163,3 +163,5 @@ cython_debug/
 .DS_Store
 자료/*
 0_basic.ipynb
+final_*.ipynb
+mid_*.ipynb
